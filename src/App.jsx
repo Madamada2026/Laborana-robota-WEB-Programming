@@ -1,12 +1,13 @@
 import React from 'react';
-import AsyncComponent from './AsyncComponent';
+import PreviousComponent from './PreviousComponent';
 
 function App() {
   return (
     <div>
-      <AsyncComponent />
+      <PreviousComponent />
     </div>
   );
 }
 
 export default App;
+
