@@ -1,10 +1,10 @@
 import React from 'react';
-import WindowSizeComponent from './WindowSizeComponent';
+import MediaQueryComponent from './MediaQueryComponent';
 
 function App() {
   return (
     <div>
-      <WindowSizeComponent />
+      <MediaQueryComponent />
     </div>
   );
 }
