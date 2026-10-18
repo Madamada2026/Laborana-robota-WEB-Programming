@@ -1,10 +1,10 @@
 import React from 'react';
-import ClipboardComponent from './ClipboardComponent';
+import AsyncComponent from './AsyncComponent';
 
 function App() {
   return (
     <div>
-      <ClipboardComponent />
+      <AsyncComponent />
     </div>
   );
 }
