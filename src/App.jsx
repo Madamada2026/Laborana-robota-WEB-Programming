@@ -1,10 +1,10 @@
 import React from 'react';
-import OnClickOutsideComponent from './OnClickOutsideComponent';
+import LocalStorageComponent from './LocalStorageComponent';
 
 function App() {
   return (
     <div>
-      <OnClickOutsideComponent />
+      <LocalStorageComponent />
     </div>
   );
 }
