@@ -1,13 +1,12 @@
 import React from 'react';
-import PreviousComponent from './PreviousComponent';
+import OnClickOutsideComponent from './OnClickOutsideComponent';
 
 function App() {
   return (
     <div>
-      <PreviousComponent />
+      <OnClickOutsideComponent />
     </div>
   );
 }
 
 export default App;
-
