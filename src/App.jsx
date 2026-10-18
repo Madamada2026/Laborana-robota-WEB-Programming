@@ -1,10 +1,10 @@
 import React from 'react';
-import GeolocationComponent from './GeolocationComponent';
+import ClipboardComponent from './ClipboardComponent';
 
 function App() {
   return (
     <div>
-      <GeolocationComponent />
+      <ClipboardComponent />
     </div>
   );
 }
