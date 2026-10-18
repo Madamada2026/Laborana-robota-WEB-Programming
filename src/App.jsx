@@ -1,10 +1,10 @@
 import React from 'react';
-import MediaQueryComponent from './MediaQueryComponent';
+import GeolocationComponent from './GeolocationComponent';
 
 function App() {
   return (
     <div>
-      <MediaQueryComponent />
+      <GeolocationComponent />
     </div>
   );
 }
